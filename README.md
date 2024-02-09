@@ -12,12 +12,14 @@ The instructions for this activity are broken into two parts:
 
 Part 1: Create the Earthquake Visualization
 
+
 Part 2: Gather and Plot More Data
 
 
 
 Part 1: Create the Earthquake Visualization
-image
+
+![Screenshot (3)](https://github.com/hvalentina0424/leaflet-challenge/assets/142540325/d9ccd9e5-4a35-4256-991d-ba4f65ee882e)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -36,5 +38,3 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
 Create a legend that will provide context for your map data.
-
-Your visualization should look something like the preceding map.
